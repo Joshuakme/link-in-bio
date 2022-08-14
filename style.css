@@ -136,5 +136,6 @@ a {
     background: url(./images/bg\(ori\).jpg) no-repeat center center fixed;
     background-size: cover;
     text-align: center;
+    font-size: 1.2rem;
   }
 }
