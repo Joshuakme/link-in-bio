@@ -1,5 +1,6 @@
 # link-in-bio
-[View live site (prefer on mobile)](https://links.joshuakme.com)
+
+<a href="https://links.joshuakme.com" target="_blank">View live site (prefer on mobile)</a>
   
 <img src="./images/mobile-screenshot.PNG" height="450">
 
